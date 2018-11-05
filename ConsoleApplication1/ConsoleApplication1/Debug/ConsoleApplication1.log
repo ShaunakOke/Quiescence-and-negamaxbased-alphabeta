@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+d:\code stuff\ai4gandp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): warning C4101: 'temp': unreferenced local variable
+  ConsoleApplication1.vcxproj -> D:\code stuff\ai4gandp\ConsoleApplication1\Debug\ConsoleApplication1.exe
